@@ -1,0 +1,36 @@
+{
+  "name": "lwdmk\\yii2-base-classes",
+  "version": "0.0.1",
+  "type": "library",
+  "description": "Yii2 set of base classes",
+  "keywords": [
+    "yii2",
+    "base",
+    "classes"
+  ],
+  "homepage": "https://github.com/lwdmk/yii-base",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmitry Kulikov",
+      "email": "dmitryklkv@gmail.com",
+      "homepage": "https://github.com/lwdmk/yii-base",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "dmitryklkv@gmail.com",
+    "source": "https://github.com/lwdmk/yii-base"
+  },
+  "require": {
+    "php": ">=7.1",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "lwdmk\\yii2BaseClasses": "src"
+    }
+  },
+  "extra": {
+  }
+}
